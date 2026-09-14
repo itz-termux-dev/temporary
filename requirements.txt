@@ -1,4 +1,6 @@
 fastapi
 uvicorn
-melo
 python-multipart
+f5-tts
+soundfile
+requests
